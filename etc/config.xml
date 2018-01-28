@@ -35,5 +35,11 @@
                 <used_totals>subtotal,tax,shipping</used_totals>
             </msp_cashondelivery>
         </payment>
+        <sales>
+            <totals_sort>
+                <msp_cashondelivery>35</msp_cashondelivery>
+                <msp_cashondelivery_tax>36</msp_cashondelivery_tax>
+            </totals_sort>
+        </sales>
     </default>
 </config>

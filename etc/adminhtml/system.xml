@@ -71,5 +71,15 @@
                 </field>
             </group>
         </section>
+        <section id="sales">
+            <group id="totals_sort">
+                <field id="msp_cashondelivery" translate="label" type="text" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="0" canRestore="1">
+                    <label>Cash on Delivery</label>
+                </field>
+                <field id="msp_cashondelivery_tax" translate="label" type="text" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="0" canRestore="1">
+                    <label>Cash on Delivery Tax</label>
+                </field>
+            </group>
+        </section>
     </system>
 </config>
